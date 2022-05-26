@@ -19,6 +19,7 @@
 		<link rel="stylesheet" href="/css/blocks/welcome-block.css">
 		<link rel="stylesheet" href="/css/blocks/popular-books.css">
 		<link rel="stylesheet" href="/css/blocks/book.css">
+		<link rel="stylesheet" href="/css/blocks/ad-forum.css">
 	<!-- index-page css init end -->
 </head>
 <body>
@@ -29,6 +30,9 @@
 		</div>
 		<div class="mt110">
 			<? require_once("../blocks/popular-books.php") ?>
+		</div>
+		<div class="mt75">
+			<? require_once("../blocks/advert-forum.php") ?>
 		</div>
 	</div>
 </body>

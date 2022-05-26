@@ -1,0 +1,17 @@
+.advert-forum {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.advert-forum__container-text-n-link {
+	margin-left: 60px;
+}
+
+.advert-forum__title {
+	margin-bottom: 40px;
+}
+
+.advert-forum__desc {
+	margin-bottom: 40px;
+}
