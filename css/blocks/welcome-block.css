@@ -1,0 +1,16 @@
+.welcome-block {
+	display: flex;
+	justify-content: space-between;
+}
+
+.welcome-block__container-text-n-btn {
+	margin-right: 80px;
+}
+
+.welcome-block__title {
+	margin-bottom: 40px;
+}
+
+.welcome-block__desc {
+	margin-bottom: 85px;
+}
