@@ -1,0 +1,44 @@
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 40px;
+}
+
+.header__logo {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 28px;
+	line-height: 34px;
+	color: var(--palette-black-primary);
+}
+
+.header__menu {
+	max-width: 340px;
+	width: 100%;
+	display: flex;
+}
+
+.header__container-link {
+	max-width: 60px;
+	width: 100%;
+}
+
+.header__container-link:not(:last-child) {
+	margin-right: 40px;
+}
+
+.header__container-login-n-registr {
+	display: flex;
+	align-items: center;
+}
+
+.header__btn-login {
+	display: flex;
+	margin-right: 20px;
+}
+
+.header__img-login {
+	margin-right: 10px;
+}
