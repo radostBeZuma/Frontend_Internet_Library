@@ -17,13 +17,18 @@
 	<!-- index-page css init -->
 		<link rel="stylesheet" href="/css/blocks/header.css">
 		<link rel="stylesheet" href="/css/blocks/welcome-block.css">
+		<link rel="stylesheet" href="/css/blocks/popular-books.css">
+		<link rel="stylesheet" href="/css/blocks/book.css">
 	<!-- index-page css init end -->
 </head>
 <body>
-	<div class="wrapper">
+	<div class="wrapper wrapper-dev">
 		<? require_once("../blocks/header.php") ?>
 		<div class="mt110">
 			<? require_once("../blocks/welcome-block.php") ?>
+		</div>
+		<div class="mt110">
+			<? require_once("../blocks/popular-books.php") ?>
 		</div>
 	</div>
 </body>

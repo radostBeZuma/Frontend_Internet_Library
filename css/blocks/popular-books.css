@@ -1,0 +1,40 @@
+.popular-books {
+	max-width: 940px;
+	margin: 0 auto;
+}
+
+.popular-books__title {
+	text-align: center;
+	margin-bottom: 60px;
+}
+
+.popular-books__container-all-book {
+	display: flex;
+	justify-content: space-between;
+}
+
+.popular-books__container-dots {
+	margin-top: 25px;
+	display: flex;
+	justify-content: center;
+}
+
+.popular-books__dot {
+	width: 12px;
+	height: 12px;
+	border-radius: 100%;
+	background-color: var(--palette-gray-secondary);
+	transition: background 0.3s;
+}
+
+.popular-books__dot:not(:last-child) {
+	margin-right: 8px;
+}
+
+.popular-books__dot:hover {
+	background-color: var(--palette-blue-primary);
+}
+
+.popular-books__dot._is-active {
+	background-color: var(--palette-blue-primary);
+}

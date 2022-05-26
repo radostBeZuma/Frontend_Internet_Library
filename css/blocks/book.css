@@ -1,0 +1,18 @@
+.book {
+	flex-basis: 220px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	box-sizing: border-box;
+	padding: 25px 20px 10px 20px;
+	box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.25);
+}
+
+.book__img {
+	margin-bottom: 15px;
+}
+
+.book__title {
+	font-weight: 600;
+	font-size: 14px;
+}
