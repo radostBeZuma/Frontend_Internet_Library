@@ -1,0 +1,72 @@
+.select-books__container-title-n-help-btn {
+	display: flex;
+	align-items: center;
+}
+
+.select-books__help-btn {
+	margin-left: 10px;
+}
+
+.select-books__help-img {
+	margin-top: 10px;
+}
+
+.select-books__container-input-n-btns-filter-n-btn-reset {
+	margin-top: 40px;
+}
+
+.select-books__box-input-n-search-btn {
+	position: relative;
+}
+
+.select-books__input {
+	width: 100%;
+}
+
+.select-books__search-btn {
+	position: absolute;
+	top: 18px;
+	right: 25px;
+}
+
+.select-books__box-btns-filter {
+	margin-top: 25px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.select-books__box-btn-reset {
+	margin-top: 25px;
+	display: flex;
+	align-items: center;
+}
+
+.select-books__title-btn {
+	margin-right: 15px;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 19px;
+}
+
+.select-books__img-reset {
+	margin-top: 5px;
+}
+
+.select-books__container-all-books {
+	margin-top: 80px;
+}
+
+.select-books__box-line-books {
+	display: flex;
+	justify-content: space-between;
+}
+
+.select-books__box-line-books:not(:last-child) {
+	margin-bottom: 40px;
+}
+
+.select-books__container__btn-show-more {
+	margin-top: 60px;
+	display: flex;
+	justify-content: center;
+}

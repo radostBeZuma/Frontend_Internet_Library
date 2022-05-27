@@ -6,7 +6,7 @@
 
 	<nav class="header__menu">
 		<div class="header__container-link">
-			<a class="header__link link-primary link-primary_is-active" href="#">Главная</a>
+			<a class="header__link link-primary" href="/templates/">Главная</a>
 		</div>
 		<div class="header__container-link">
 			<a class="header__link link-primary" href="#">Каталог</a>

@@ -60,3 +60,11 @@ button {
 	border: none;
 	background-color: transparent;
 }
+
+input {
+	border: none;
+}
+
+input:focus {
+	outline: none;
+}

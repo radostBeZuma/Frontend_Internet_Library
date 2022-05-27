@@ -1,0 +1,14 @@
+.page-navigation {
+	display: flex;
+	align-items: center;
+}
+
+.page-navigation__link {
+	max-width: 70px;
+	width: 100%;
+	text-align: center;
+}
+
+.page-navigation__arrow {
+	margin: 0 8px;
+}
