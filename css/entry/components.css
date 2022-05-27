@@ -33,6 +33,33 @@
 	color: var(--palette-white-primary);
 }
 
+/* btn-slider */
+
+.btn-slider {
+	border: 1px solid var(--palette-blue-primary);
+	padding: 20px 25px;
+	border-radius: 4px;
+	transition: background 0.3s;
+}
+
+.img_active {
+	display: none;
+}
+
+.btn-slider:hover {
+	background-color: var(--palette-blue-primary);
+}
+
+.btn-slider:hover .img_no-active {
+	display: none;
+}
+
+.btn-slider:hover .img_active {
+	display: block;
+}
+
+/* btn-slider end */
+
 .link-primary {
 	font-family: 'Inter';
 	font-style: normal;

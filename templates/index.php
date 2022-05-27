@@ -20,10 +20,11 @@
 		<link rel="stylesheet" href="/css/blocks/popular-books.css">
 		<link rel="stylesheet" href="/css/blocks/book.css">
 		<link rel="stylesheet" href="/css/blocks/ad-forum.css">
+		<link rel="stylesheet" href="/css/blocks/recommendation.css">
 	<!-- index-page css init end -->
 </head>
 <body>
-	<div class="wrapper wrapper-dev">
+	<div class="wrapper">
 		<? require_once("../blocks/header.php") ?>
 		<div class="mt110">
 			<? require_once("../blocks/welcome-block.php") ?>
@@ -34,6 +35,14 @@
 		<div class="mt75">
 			<? require_once("../blocks/advert-forum.php") ?>
 		</div>
+	</div>
+
+	<div class="mt110">
+		<? require_once("../blocks/recommendation.php") ?>
+	</div>
+
+	<div class="wrapper wrapper-dev">
+		
 	</div>
 </body>
 </html>
