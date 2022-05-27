@@ -21,6 +21,7 @@
 		<link rel="stylesheet" href="/css/blocks/book.css">
 		<link rel="stylesheet" href="/css/blocks/ad-forum.css">
 		<link rel="stylesheet" href="/css/blocks/recommendation.css">
+		<link rel="stylesheet" href="/css/blocks/question-tool.css">
 	<!-- index-page css init end -->
 </head>
 <body>
@@ -42,7 +43,9 @@
 	</div>
 
 	<div class="wrapper wrapper-dev">
-		
+		<div class="mt110">
+		<? require_once("../blocks/question-tool.php") ?>
+		</div>
 	</div>
 </body>
 </html>

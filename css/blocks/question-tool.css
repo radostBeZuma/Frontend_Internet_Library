@@ -1,0 +1,27 @@
+.question-tool {
+	position: relative;
+	border-radius: 5px;
+	padding: 15px 45px 25px 60px;
+	box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.25);
+}
+
+.question-tool__decoration {
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	width: 10px;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	background-color: var(--palette-orange-primary);
+}
+
+.question-tool__container-img-n-text-n-btn {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.question-tool__box-text {
+	flex-basis: 60%;
+}

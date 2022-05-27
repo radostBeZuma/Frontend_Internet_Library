@@ -25,6 +25,6 @@
 			<p class="header__text-btn">Войти</p>
 		</button>
 
-		<button class="header__btn-regist btn-secondary">Регистрация</button>
+		<button class="header__btn-regist btn-primary">Регистрация</button>
 	</div>
 </header>
