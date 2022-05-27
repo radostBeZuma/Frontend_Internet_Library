@@ -5,6 +5,7 @@
 
 body {
 	font-family: 'Inter';
+	color: var(--palette-black-primary);
 }
 
 h1 {

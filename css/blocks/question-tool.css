@@ -24,4 +24,10 @@
 
 .question-tool__box-text {
 	flex-basis: 60%;
+	margin-left: 25px;
+}
+
+.question-tool__box-link {
+	margin-left: 20px;
+	flex-shrink: 0;
 }

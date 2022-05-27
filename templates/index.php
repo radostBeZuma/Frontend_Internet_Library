@@ -22,6 +22,7 @@
 		<link rel="stylesheet" href="/css/blocks/ad-forum.css">
 		<link rel="stylesheet" href="/css/blocks/recommendation.css">
 		<link rel="stylesheet" href="/css/blocks/question-tool.css">
+		<link rel="stylesheet" href="/css/blocks/footer.css">
 	<!-- index-page css init end -->
 </head>
 <body>
@@ -42,10 +43,14 @@
 		<? require_once("../blocks/recommendation.php") ?>
 	</div>
 
-	<div class="wrapper wrapper-dev">
+	<div class="wrapper">
 		<div class="mt110">
 		<? require_once("../blocks/question-tool.php") ?>
 		</div>
+	</div>
+
+	<div class="mt110">
+		<? require_once("../blocks/footer.php") ?>
 	</div>
 </body>
 </html>
