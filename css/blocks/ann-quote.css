@@ -1,0 +1,19 @@
+.ann-quote {
+	max-width: 1100px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.ann-quote__container-text-n-link {
+	flex-basis: 35%;
+}
+
+.ann-quote__title {
+	margin-bottom: 25px;
+}
+
+.ann-quote__desc {
+	margin-bottom: 35px;
+}

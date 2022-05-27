@@ -17,7 +17,7 @@
 		<link rel="stylesheet" href="/css/blocks/page-navigation.css">
 		<link rel="stylesheet" href="/css/blocks/select-books.css">
 		<link rel="stylesheet" href="/css/blocks/book.css">
-		
+		<link rel="stylesheet" href="/css/blocks/ann-quote.css">
 		<link rel="stylesheet" href="/css/blocks/footer.css">
 	<!-- index-page css init end -->
 
@@ -32,10 +32,13 @@
 		<div class="mt50">
 			<? require_once("../blocks/select-books.php") ?>
 		</div>
+		<div class="mt110">
+			<? require_once("../blocks/ann-quote.php") ?>
+		</div>
 	</div>
 
-	<!-- <div class="mt110">
+	<div class="mt110">
 		<? require_once("../blocks/footer.php") ?>
-	</div> -->
+	</div>
 </body>
 </html>
