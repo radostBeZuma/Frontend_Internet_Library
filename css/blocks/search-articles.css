@@ -1,0 +1,29 @@
+.search-articles__title {
+	margin-bottom: 25px;
+}
+
+.search-articles__desc {
+	margin-bottom: 25px;
+}
+
+.search-articles__box-search-input-n-btn-search {
+	position: relative;
+}
+
+.search-articles__search-input {
+	width: 100%;
+}
+
+.search-article__btn-search {
+	position: absolute;
+	top: 18px;
+	right: 25px;
+}
+
+.search-articles__container-all-articles {
+	margin-top: 90px;
+}
+
+.search-articles__container-all-articles .article:not(:last-child) {
+	margin-bottom: 64px;
+}

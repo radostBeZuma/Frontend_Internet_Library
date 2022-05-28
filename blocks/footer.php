@@ -8,7 +8,7 @@
 			<a class="footer__link link-primary" href="#">Форум</a>
 		</div>
 		<div class="footer__container-copyright">
-			<p class="footer__copyright">Copyright © Dmitriy Drozdov 2021. All Rights Reserved.</p>
+			<p class="footer__copyright">Copyright © Dmitriy Drozdov 2022. All Rights Reserved.</p>
 		</div>
 	</div>
 </footer>

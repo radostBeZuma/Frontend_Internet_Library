@@ -1,7 +1,9 @@
 :root {
 
 	--palette-blue-primary: #195AFF;
+	--palette-blue-primary-light: #195AFFCC;
 	--palette-blue-secondary: #0036BE;
+	--palette-blue-thrity: #113873;
 
 	--palette-white-primary: white;
 

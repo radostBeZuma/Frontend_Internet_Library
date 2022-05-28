@@ -1,0 +1,149 @@
+.user-change__title {
+	margin-bottom: 60px;
+}
+
+.user-change__container-user-tools {
+	display: flex;
+	justify-content: space-between;
+}
+
+.user-change__container-user-change-img-n-user-change-info {
+	flex-basis: 50%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.user-change__box-change-img {
+	width: 200px;
+	height: 200px;
+	background-color: var(--palette-gray-secondary);
+}
+
+.user-change__change-img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.user-change__box-upload-input {
+	margin-top: 25px;
+}
+
+.user-change__upload-input-file {
+	opacity: 0;
+	visibility: hidden;
+	position: absolute;
+}
+
+.user-change__upload-label {
+	cursor: pointer;
+}
+
+.user-change__box-delete-btn {
+	width: 100%;
+	margin-top: 15px;
+	display: flex;
+	justify-content: center;
+}
+
+.user-change__delete-btn {
+	display: flex;
+	align-items: center;
+}
+
+.user-change__delete-icon {
+	margin-right: 8px;
+}
+
+.user-change__delete-text {
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 19px;
+}
+
+.user-change__container-change-name-n-login {
+	flex-basis: 55%;
+	margin-left: 20px;
+}
+
+.user-change__box-edit-input:not(:last-child) {
+	margin-bottom: 20px;
+}
+
+.user-change__placeholder-edit-input {
+	margin-bottom: 15px;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 26px;
+	color: var(--palette-gray-secondary);
+}
+
+.user-change__inner-edit-input-n-btn {
+	position: relative;
+}
+
+.user-change__edit-input {
+	width: 100%;
+}
+
+.user-change__edit-text-btn {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}
+
+.user-change__container-change-current-pass-n-new-pass {
+	flex-basis: 40%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 25px 90px;
+	box-sizing: border-box;
+	border-radius: 10px;
+	background-color: var(--palette-blue-primary-light);
+}
+
+.user-change__block-title {
+	margin-bottom: 20px;
+	color: var(--palette-white-primary);
+}
+
+.user-change__box-edit-pass {
+	width: 100%;
+}
+
+.user-change__box-edit-pass:not(:last-child) {
+	margin-bottom: 10px;
+}
+
+.user-change__name-input {
+	margin-bottom: 10px;
+	font-size: 16px;
+	line-height: 26px;
+	color: var(--palette-white-primary);
+	text-align: center;
+}
+
+.user-change__edit-pass-input {
+	width: 100%;
+}
+
+.user-change__box-edit-btn {
+	margin-top: 20px;
+}
+
+.user-change__edit-btn {
+	display: flex;
+	align-items: center;
+}
+
+.user-change__edit-btn-img {
+	margin-right: 8px;
+}
+
+.user-change__edit-btn-text {
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 19px;
+	color: var(--palette-white-primary);
+}
