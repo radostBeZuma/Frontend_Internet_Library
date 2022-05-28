@@ -10,6 +10,7 @@
 .header__wrap {
 	max-width: 1230px;
 	margin: 0 auto;
+	padding: 0 15px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -22,6 +23,7 @@
 	font-size: 28px;
 	line-height: 34px;
 	color: var(--palette-black-primary);
+	margin-right: 35px;
 }
 
 .header__menu {
@@ -42,6 +44,7 @@
 .header__container-login-n-registr {
 	display: flex;
 	align-items: center;
+	margin-left: 35px;
 }
 
 .header__btn-login {

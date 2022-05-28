@@ -1,0 +1,97 @@
+.part-book {
+	display: flex;
+	justify-content: space-between;
+}
+
+.part-book__container-img-n-book-btns {
+	flex-basis: 400px;
+	margin-right: 40px;
+	flex-shrink: 0;
+}
+
+.part-book__book-img {
+	width: 100%;
+	height: 90%;
+	object-fit: cover;
+	object-position: top;
+}
+
+.part-book__box-book-btns {
+	margin-top: 40px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.part-book__download-btn {
+	display: flex;
+	align-items: center;
+	margin-right: 20px;
+}
+
+.part-book__download-icon {
+	margin-right: 8px;
+}
+
+.part-book__download-text {
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 19px;
+}
+
+.part-book__box-tag-n-desc {
+	margin-top: 25px;
+}
+
+.part-book__inner-tag-n-desc {
+	width: 55%;
+	display: flex;
+}
+
+.part-book__inner-tag-n-desc:not(:last-child) {
+	margin-bottom: 10px;
+}
+
+.part-book__tag {
+	flex-basis: 50%;
+	font-size: 16px;
+	line-height: 19px;
+	margin-right: 10px;
+	color: var(--palette-gray-primary);
+}
+
+.part-book__tag::after {
+	content: ":";
+}
+
+.part-book__desc {
+	flex-basis: 50%;
+	font-size: 14px;
+	line-height: 20px;
+	color: var(--palette-gray-secondary);
+}
+
+.part-book__box-annotation {
+	margin-top: 60px;
+}
+
+.part-book__desc-annotation {
+	margin-top: 20px;
+	font-size: 16px;
+	line-height: 26px;
+}
+
+.part-book__box-favorite-btn {
+	margin-top: 75px;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.part-book__favorite-btn {
+	display: flex;
+	align-items: center;
+}
+
+.part-book__favorite-btn-text {
+	margin-right: 8px;
+}

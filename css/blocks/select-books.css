@@ -33,6 +33,15 @@
 	margin-top: 25px;
 	display: flex;
 	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.select-books__btn-filter {
+	margin-bottom: 20px;
+}
+
+.select-books__btn-filter:not(:last-child) {
+	margin-right: 20px;
 }
 
 .select-books__box-btn-reset {

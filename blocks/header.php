@@ -1,4 +1,4 @@
-<header class="header">
+<header class="header gray-theme">
 	<div class="header__wrap">
 		<div class="header__container-logo">
 			<p class="header__logo">SmartLibrary</p>

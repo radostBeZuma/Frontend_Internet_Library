@@ -24,8 +24,8 @@
 	<title>Блог</title>
 </head>
 <body>
+	<? require_once("../blocks/header.php") ?>
 	<div class="wrapper">
-		<? require_once("../blocks/header.php") ?>
 		<div class="mt40">
 			<? require_once("../blocks/page-navigation.php") ?>
 		</div>

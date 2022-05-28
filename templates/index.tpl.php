@@ -26,8 +26,8 @@
 	<!-- index-page css init end -->
 </head>
 <body>
+	<? require_once("../blocks/header.php") ?>
 	<div class="wrapper">
-		<? require_once("../blocks/header.php") ?>
 		<div class="mt110">
 			<? require_once("../blocks/welcome-block.php") ?>
 		</div>

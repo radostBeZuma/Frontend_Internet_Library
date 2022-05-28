@@ -12,6 +12,10 @@
 	margin-bottom: 15px;
 }
 
+.book__detail-link:hover {
+	text-decoration: underline;
+}
+
 .book__title {
 	font-weight: 600;
 	font-size: 14px;

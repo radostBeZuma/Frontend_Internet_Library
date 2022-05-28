@@ -1,4 +1,6 @@
 <section class="book">
 	<img class="book__img" src="/img/book.jpg" alt="Обложка книги">
-	<p class="book__title">Последняя ночь у Извилистой реки</p>
+	<a class="book__detail-link" href="#">
+		<p class="book__title">Последняя ночь у Извилистой реки</p>
+	</a>
 </section>

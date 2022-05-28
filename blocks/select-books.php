@@ -28,7 +28,6 @@
 			<img class="select-books__img-reset" src="/img/reset.png" alt="Помощь">
 		</button>
 		</div>
-		
 	</div>
 	<div class="select-books__container-all-books">
 		<div class="select-books__box-line-books">

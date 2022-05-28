@@ -58,6 +58,41 @@
 	background-color: var(--palette-orange-secondary);
 }
 
+.btn-thrity {
+	border-radius: 50px;
+	border: 2px solid var(--palette-blue-primary);
+	padding: 15px 35px;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 19px;
+	transition: background 0.3s, color 0.3s;
+}
+
+.btn-thrity:hover {
+	background-color: var(--palette-blue-primary);
+	color: var(--palette-white-primary);
+}
+
+.btn-fourth {
+	display: inline-block;
+	padding: 15px 60px;
+	background-color: var(--palette-blue-primary);
+	color: var(--palette-white-primary);
+	border-radius: 6px;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 19px;
+	transition: background 0.3s, color 0.3s;
+}
+
+.btn-fourth:hover {
+	background-color: var(--palette-blue-secondary);
+}
+
 .btn-slider {
 	border: 1px solid var(--palette-blue-primary);
 	padding: 20px 25px;
