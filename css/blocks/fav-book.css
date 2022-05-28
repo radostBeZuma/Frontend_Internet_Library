@@ -1,0 +1,36 @@
+.fav-book {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	box-sizing: border-box;
+	padding: 25px 20px 10px 20px;
+	box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.25);
+}
+
+.fav-book__img {
+	margin-bottom: 15px;
+}
+
+.fav-book__title {
+	font-weight: 600;
+	font-size: 14px;
+}
+
+.fav-book__author {
+	width: 100%;
+	margin-top: 25px;
+	font-weight: 600;
+	font-size: 12px;
+	line-height: 12px;
+	color: var(--palette-gray-secondary);
+}
+
+.fav-book__delete-btn {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

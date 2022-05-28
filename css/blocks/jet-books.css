@@ -1,0 +1,16 @@
+.jet-books__container-all-jet-book {
+	margin-top: 60px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.jet-books__container-all-jet-book .fav-book {
+	flex-basis: 220px;
+	margin-bottom: 20px;
+}
+
+.jet-books__container-all-jet-book .fav-book:not(:last-child) {
+	margin-right: 20px;
+}
+

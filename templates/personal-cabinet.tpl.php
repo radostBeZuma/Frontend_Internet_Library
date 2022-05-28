@@ -18,13 +18,16 @@
 		<link rel="stylesheet" href="/css/blocks/user-change.css">
 		<link rel="stylesheet" href="/css/blocks/select-info.css">
 		<link rel="stylesheet" href="/css/blocks/favorite-card.css">
+		<link rel="stylesheet" href="/css/blocks/jet-books.css">
+		<link rel="stylesheet" href="/css/blocks/fav-book.css">
+
 		<link rel="stylesheet" href="/css/blocks/footer.css">
 	<!-- personal-cabinet-page css init end -->
 	
 	<title>Личный кабинет</title>
 </head>
 <body>
-	<div class="wrapper wrapper-dev">
+	<div class="wrapper">
 		<? require_once("../blocks/header.php") ?>
 		<div class="mt40">
 			<? require_once("../blocks/page-navigation.php") ?>
@@ -35,12 +38,12 @@
 		<div class="mt110">
 			<? require_once("../blocks/select-info.php") ?>
 		</div>
-
-
+		<div class="mt110">
+			<? require_once("../blocks/jet-books.php") ?>
+		</div>
 	</div>
-
-	<!-- <div class="mt110">
+	<div class="mt110">
 		<? require_once("../blocks/footer.php") ?>
-	</div> -->
+	</div>
 </body>
 </html>
