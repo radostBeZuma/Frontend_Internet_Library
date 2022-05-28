@@ -16,13 +16,15 @@
 		<link rel="stylesheet" href="/css/blocks/header.css">
 		<link rel="stylesheet" href="/css/blocks/page-navigation.css">
 		<link rel="stylesheet" href="/css/blocks/user-change.css">
+		<link rel="stylesheet" href="/css/blocks/select-info.css">
+		<link rel="stylesheet" href="/css/blocks/favorite-card.css">
 		<link rel="stylesheet" href="/css/blocks/footer.css">
 	<!-- personal-cabinet-page css init end -->
 	
 	<title>Личный кабинет</title>
 </head>
 <body>
-	<div class="wrapper">
+	<div class="wrapper wrapper-dev">
 		<? require_once("../blocks/header.php") ?>
 		<div class="mt40">
 			<? require_once("../blocks/page-navigation.php") ?>
@@ -30,6 +32,10 @@
 		<div class="mt50">
 			<? require_once("../blocks/user-change.php") ?>
 		</div>
+		<div class="mt110">
+			<? require_once("../blocks/select-info.php") ?>
+		</div>
+
 
 	</div>
 
