@@ -12,33 +12,26 @@
 		<link rel="stylesheet" href="/css/entry/components.css">
 	<!-- ALL-page Css init end -->
 
-	<!-- index-page css init -->
+	<!-- page css init-->
+		<link rel="stylesheet" href="/css/pages/book-selection-page.css">
+	<!-- page css init end -->
+
+	<!-- book-selection css init -->
 		<link rel="stylesheet" href="/css/blocks/header.css">
 		<link rel="stylesheet" href="/css/blocks/page-navigation.css">
 		<link rel="stylesheet" href="/css/blocks/select-books.css">
 		<link rel="stylesheet" href="/css/blocks/book.css">
 		<link rel="stylesheet" href="/css/blocks/ann-quote.css">
 		<link rel="stylesheet" href="/css/blocks/footer.css">
-	<!-- index-page css init end -->
+	<!-- book-selection css init end -->
 
 	<title>Подбор книги</title>
 </head>
 <body>
-	<? require_once("../blocks/header.php") ?>
-	<div class="wrapper">
-		<div class="mt40">
-			<? require_once("../blocks/page-navigation.php") ?>
-		</div>
-		<div class="mt50">
-			<? require_once("../blocks/select-books.php") ?>
-		</div>
-		<div class="mt110">
-			<? require_once("../blocks/ann-quote.php") ?>
-		</div>
-	</div>
-
-	<div class="mt110">
-		<? require_once("../blocks/footer.php") ?>
-	</div>
+	<? require ("../blocks/header.php") ?>
+	<? require ("../blocks/page-navigation.php") ?>
+	<? require ("../blocks/select-books.php") ?>
+	<? require ("../blocks/ann-quote.php") ?>
+	<? require ("../blocks/footer.php") ?>
 </body>
 </html>

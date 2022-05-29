@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -24,16 +24,12 @@
 		<link rel="stylesheet" href="/css/blocks/footer.css">
 	<!-- detail-book-page css init end -->
 
-	
-	
 	<title>Детальная страница книги</title>
 </head>
 <body>
-	<? require_once("../blocks/header.php") ?>
-	<div class="wrapper">
-		<? require_once("../blocks/page-navigation.php") ?>
-		<? require_once("../blocks/part-book.php") ?>
-	</div>
-	<? require_once("../blocks/footer.php") ?>
+	<? require ("../blocks/header.php") ?>
+	<? require ("../blocks/page-navigation.php") ?>
+	<? require ("../blocks/part-book.php") ?>
+	<? require ("../blocks/footer.php") ?>
 </body>
 </html>

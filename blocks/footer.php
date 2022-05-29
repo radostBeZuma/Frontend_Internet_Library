@@ -1,4 +1,4 @@
-<footer class="footer grey-theme">
+<footer class="footer grey-theme-f">
 	<div class="footer__wrap">
 		<div class="footer__container-menu-n-logo">
 			<a class="footer__link link-primary" href="#">Главная</a>

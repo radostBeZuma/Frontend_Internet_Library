@@ -14,6 +14,10 @@
 		<link rel="stylesheet" href="/css/entry/components.css">
 	<!-- ALL-page Css init end -->
 
+	<!-- page css init-->
+		<link rel="stylesheet" href="/css/pages/index-page.css">
+	<!-- page css init end -->
+
 	<!-- index-page css init -->
 		<link rel="stylesheet" href="/css/blocks/header.css">
 		<link rel="stylesheet" href="/css/blocks/welcome-block.css">
@@ -26,31 +30,12 @@
 	<!-- index-page css init end -->
 </head>
 <body>
-	<? require_once("../blocks/header.php") ?>
-	<div class="wrapper">
-		<div class="mt110">
-			<? require_once("../blocks/welcome-block.php") ?>
-		</div>
-		<div class="mt110">
-			<? require_once("../blocks/popular-books.php") ?>
-		</div>
-		<div class="mt75">
-			<? require_once("../blocks/advert-forum.php") ?>
-		</div>
-	</div>
-
-	<div class="mt110">
-		<? require_once("../blocks/recommendation.php") ?>
-	</div>
-
-	<div class="wrapper">
-		<div class="mt110">
-		<? require_once("../blocks/question-tool.php") ?>
-		</div>
-	</div>
-
-	<div class="mt110">
-		<? require_once("../blocks/footer.php") ?>
-	</div>
+	<? require ("../blocks/header.php") ?>
+	<? require ("../blocks/welcome-block.php") ?>
+	<? require ("../blocks/popular-books.php") ?>
+	<? require ("../blocks/advert-forum.php") ?>
+	<? require ("../blocks/recommendation.php") ?>
+	<? require ("../blocks/question-tool.php") ?>
+	<? require ("../blocks/footer.php") ?>
 </body>
 </html>

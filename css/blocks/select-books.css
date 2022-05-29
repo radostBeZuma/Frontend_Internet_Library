@@ -74,6 +74,10 @@
 	margin-bottom: 40px;
 }
 
+.select-books__box-line-books .book:not(:last-child) {
+	margin-right: 20px;
+}
+
 .select-books__container__btn-show-more {
 	margin-top: 60px;
 	display: flex;

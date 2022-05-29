@@ -1,5 +1,5 @@
 <section class="recommendation grey-theme">
-	<div class="wrapper">
+	<div class="recommendation__wrap wrapper">
 		<h2 class="recommendation__title">Рекомендуем вам</h2>
 		<div class="recommendation__container-slider">
 			<button class="recommendation__prev-btn btn-slider">
