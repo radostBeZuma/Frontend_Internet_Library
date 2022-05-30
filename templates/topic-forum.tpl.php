@@ -25,7 +25,7 @@
 		<link rel="stylesheet" href="/css/blocks/footer.css">
 	<!-- topic-forum-page css init end -->
 	
-	<title>Добавление статьи</title>
+	<title>Тема статьи</title>
 </head>
 <body>
 	<? require ("../blocks/header.php") ?>
