@@ -40,7 +40,7 @@
 	justify-content: flex-end;
 }
 
-.user-change__upload-btn-fake {
+.new-book__upload-btn-fake {
 	cursor: pointer;
 	display: flex;
 	justify-content: center;
@@ -51,11 +51,11 @@
 	display: none;
 }
 
-.user-change__upload-btn-fake:hover .new-book__img-b {
+.new-book__upload-btn-fake:hover .new-book__img-b {
 	display: none;
 }
 
-.user-change__upload-btn-fake:hover .new-book__img-w {
+.new-book__upload-btn-fake:hover .new-book__img-w {
 	display: block;
 }
 

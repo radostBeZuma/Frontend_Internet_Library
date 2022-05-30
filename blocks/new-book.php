@@ -15,6 +15,7 @@
 			<input class="new-book__input input-tertiary" type="text" name="category" placeholder="Категория">
 		</div>
 		<div class="new-book__container-uploads-boxs">
+			
 			<div class="new-book__box-upload">
 				<p class="new-book__placeholder-text-upload">Файл книги</p>
 				<!-- не забыть проставить правильные accept`ы -->
@@ -23,12 +24,13 @@
 					<p class="new-book__upload-text-file">Текст загружаемого файла</p>
 				</div>
 				<label class="new-book__upload-label" for="upload-file-01">
-					<div class="user-change__upload-btn-fake btn-upload">
+					<div class="new-book__upload-btn-fake btn-upload">
 						<img class="new-book__img-b" src="/img/upload-b.png" alt="Загрузка файла">
 						<img class="new-book__img-w" src="/img/upload-w.png" alt="Загрузка файла">
 					</div>
 				</label>
 			</div>
+
 			<div class="new-book__box-upload">
 				<p class="new-book__placeholder-text-upload">Картинка для обложки</p>
 				<!-- не забыть проставить правильные accept`ы -->
@@ -37,7 +39,7 @@
 					<p class="new-book__upload-text-file">Текст загружаемого файла</p>
 				</div>
 				<label class="new-book__upload-label" for="upload-file-02">
-					<div class="user-change__upload-btn-fake btn-upload">
+					<div class="new-book__upload-btn-fake btn-upload">
 						<img class="new-book__img-b" src="/img/upload-b.png" alt="Загрузка файла">
 						<img class="new-book__img-w" src="/img/upload-w.png" alt="Загрузка файла">
 					</div>

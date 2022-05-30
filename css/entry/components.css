@@ -272,8 +272,6 @@
 
 /* input variations end */
 
-
-
 .textarea-primary {
 	resize: none;
 	padding: 15px 20px;
@@ -283,6 +281,9 @@
 	font-size: 14px;
 	line-height: 17px;
 	color: var(--palette-gray-primary);
+	font-family: 'Inter';
+	font-size: 14px;
+	line-height: 17px;
 }
 
 .textarea-primary::placeholder {
