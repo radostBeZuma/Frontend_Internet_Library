@@ -13,20 +13,24 @@
 	<!-- ALL-page Css init end -->
 
 	<!-- page css init-->
-		<link rel="stylesheet" href="/css/pages/add-article-page.css">
+		<link rel="stylesheet" href="/css/pages/topic-forum-page.css">
 	<!-- page css init end -->
 
-	<!-- add-article-page css init -->
+	<!-- topic-forum-page css init -->
 		<link rel="stylesheet" href="/css/blocks/header.css">
-		<link rel="stylesheet" href="/css/blocks/new-article.css">
+		<link rel="stylesheet" href="/css/blocks/page-navigation.css">
+		<link rel="stylesheet" href="/css/blocks/article-view.css">
+		<link rel="stylesheet" href="/css/blocks/comment.css">
+		<link rel="stylesheet" href="/css/blocks/add-answer.css">
 		<link rel="stylesheet" href="/css/blocks/footer.css">
-	<!-- add-article-page css init end -->
+	<!-- topic-forum-page css init end -->
 	
 	<title>Добавление статьи</title>
 </head>
 <body>
 	<? require ("../blocks/header.php") ?>
-	<? require ("../blocks/new-article.php") ?>
+	<? require ("../blocks/page-navigation.php") ?>
+	<? require ("../blocks/article-view.php") ?>
 	<? require ("../blocks/footer.php") ?>
 </body>
 </html>
