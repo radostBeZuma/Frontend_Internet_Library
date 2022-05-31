@@ -24,8 +24,5 @@
 			<? require ("../blocks/topic.php") ?>
 			<? require ("../blocks/topic.php") ?>
 		</div>
-		
-		
-		
 	</div>
 </section>
