@@ -27,6 +27,7 @@
 		<link rel="stylesheet" href="/css/blocks/recommendation.css">
 		<link rel="stylesheet" href="/css/blocks/question-tool.css">
 		<link rel="stylesheet" href="/css/blocks/registration.css">
+		<link rel="stylesheet" href="/css/blocks/auth.css">
 		<link rel="stylesheet" href="/css/blocks/footer.css">
 	<!-- index-page css init end -->
 </head>
@@ -38,6 +39,7 @@
 	<? require ("../blocks/recommendation.php") ?>
 	<? require ("../blocks/question-tool.php") ?>
 	<? require ("../blocks/registration.php") ?>
+	<? require ("../blocks/auth.php") ?>
 	<? require ("../blocks/footer.php") ?>
 </body>
 </html>
