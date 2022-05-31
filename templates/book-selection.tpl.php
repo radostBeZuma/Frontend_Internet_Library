@@ -22,6 +22,7 @@
 		<link rel="stylesheet" href="/css/blocks/select-books.css">
 		<link rel="stylesheet" href="/css/blocks/book.css">
 		<link rel="stylesheet" href="/css/blocks/ann-quote.css">
+		<link rel="stylesheet" href="/css/blocks/popup-check.css">
 		<link rel="stylesheet" href="/css/blocks/footer.css">
 	<!-- book-selection css init end -->
 
@@ -32,6 +33,7 @@
 	<? require ("../blocks/page-navigation.php") ?>
 	<? require ("../blocks/select-books.php") ?>
 	<? require ("../blocks/ann-quote.php") ?>
+	<? require ("../blocks/popup-check.php") ?>
 	<? require ("../blocks/footer.php") ?>
 </body>
 </html>
