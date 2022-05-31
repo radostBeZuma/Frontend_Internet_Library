@@ -7,15 +7,22 @@
 }
 
 .auth__blur-bg {
-	display: flex;
-	justify-content: center;
-	align-items: center;
 	position: fixed;
 	top: 0;
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-color: var(--palette-black-secondary);
+	background-color: var(--palette-black-primary-darken);
+}
+
+.auth__wrap {
+	width: 100%;
+	height: 100%;
+	box-sizing: border-box;
+	padding: 0 15px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .auth__container-img-n-form {
