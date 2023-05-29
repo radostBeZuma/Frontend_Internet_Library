@@ -42,6 +42,6 @@
 	<? require ("blocks/auth.php") ?>
 	<? require ("blocks/footer.php") ?>
 
-    <script src="js/form.js"></script>
+    <script src="core/js/form.js"></script>
 </body>
 </html>
