@@ -26,6 +26,8 @@
 		<link rel="stylesheet" href="/core/css/blocks/footer.css">
 	<!-- book-selection css init end -->
 
+    <link rel="icon" type="image/png" href="/favicon.ico"/>
+
 	<title>Подбор книги</title>
 </head>
 <body>

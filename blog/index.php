@@ -24,6 +24,8 @@
 		<link rel="stylesheet" href="/core/css/blocks/footer.css">
 	<!-- blog-page css init end -->
 
+    <link rel="icon" type="image/png" href="/favicon.ico"/>
+
 	<title>Блог</title>
 </head>
 <body>

@@ -21,6 +21,8 @@
 		<link rel="stylesheet" href="/core/css/blocks/new-article.css">
 		<link rel="stylesheet" href="/core/css/blocks/footer.css">
 	<!-- add-article-page css init end -->
+
+    <link rel="icon" type="image/png" href="/favicon.ico"/>
 	
 	<title>Добавление статьи</title>
 </head>

@@ -24,6 +24,8 @@
 		<link rel="stylesheet" href="/core/css/blocks/add-answer.css">
 		<link rel="stylesheet" href="/core/css/blocks/footer.css">
 	<!-- topic-forum-page css init end -->
+
+    <link rel="icon" type="image/png" href="/favicon.ico"/>
 	
 	<title>Тема статьи</title>
 </head>

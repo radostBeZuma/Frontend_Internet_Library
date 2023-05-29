@@ -26,6 +26,8 @@
 		<link rel="stylesheet" href="/core/css/blocks/fav-book.css">
 		<link rel="stylesheet" href="/core/css/blocks/footer.css">
 	<!-- personal-cabinet-page css init end -->
+
+    <link rel="icon" type="image/png" href="/favicon.ico"/>
 	
 	<title>Личный кабинет</title>
 </head>

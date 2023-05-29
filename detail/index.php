@@ -24,6 +24,8 @@
 		<link rel="stylesheet" href="/core/css/blocks/footer.css">
 	<!-- detail-book-page css init end -->
 
+    <link rel="icon" type="image/png" href="/favicon.ico"/>
+
 	<title>Детальная страница книги</title>
 </head>
 <body>

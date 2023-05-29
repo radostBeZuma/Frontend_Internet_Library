@@ -22,6 +22,8 @@
 		<link rel="stylesheet" href="/core/css/blocks/topic.css">
 		<link rel="stylesheet" href="/core/css/blocks/footer.css">
 	<!-- forum-page css init end -->
+
+    <link rel="icon" type="image/png" href="/favicon.ico"/>
 	
 	<title>Форум</title>
 </head>
