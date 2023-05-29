@@ -22,12 +22,12 @@
 		</nav>
 
 		<div class="header__container-login-n-registr">
-			<button class="header__btn-login">
+			<button class="header__btn-login" type="button" data-btn-login>
 				<img class="header__img-login" src="/img/img-login.png" alt="Войти">
 				<p class="header__text-btn">Войти</p>
 			</button>
 
-			<button class="header__btn-regist btn-primary">Регистрация</button>
+			<button class="header__btn-regist btn-primary registr" type="button" data-btn-registr>Регистрация</button>
 		</div>
 	</div>
 	
