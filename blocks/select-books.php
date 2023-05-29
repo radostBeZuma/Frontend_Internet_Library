@@ -3,14 +3,14 @@
 		<div class="select-books__container-title-n-help-btn">
 			<h2 class="select-books__title">Подобрать книгу</h2>
 			<button class="select-books__help-btn" type="button">
-				<img class="select-books__help-img" src="/img/help.png" alt="Помощь">
+				<img class="select-books__help-img" src="/core/img/help.png" alt="Помощь">
 			</button>
 		</div>
 		<div class="select-books__container-input-n-btns-filter-n-btn-reset">
 			<div class="select-books__box-input-n-search-btn">
 				<input class="select-books__input input-primary" type="text" placeholder="Введите название или автора книги">
 				<button class="select-books__search-btn">
-					<img class="select-books__search-img" src="/img/search.png" alt="Поиск">
+					<img class="select-books__search-img" src="/core/img/search.png" alt="Поиск">
 				</button>
 			</div>
 			<div class="select-books__box-btns-filter">
@@ -26,7 +26,7 @@
 			<div class="select-books__box-btn-reset">
 				<p class="select-books__title-btn">Сбросить фильтры</p>
 				<button class="select-books__btn-reset" type="button">
-				<img class="select-books__img-reset" src="/img/reset.png" alt="Помощь">
+				<img class="select-books__img-reset" src="/core/img/reset.png" alt="Помощь">
 			</button>
 			</div>
 		</div>

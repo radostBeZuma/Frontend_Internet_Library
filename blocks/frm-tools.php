@@ -9,7 +9,7 @@
 				<button class="frm-tools__topic-btn" type="button">Закрытые</button>
 			</div>
 			<a class="frm-tools__new-topic-btn" href="/add-article/">
-				<img class="frm-tools__new-topic-btn-img" src="/img/add.png" alt="Иконка добавления">
+				<img class="frm-tools__new-topic-btn-img" src="/core/img/add.png" alt="Иконка добавления">
 				<p class="frm-tools__new-topic-btn-text">Создать тему</p>
 			</a>
 		</div>

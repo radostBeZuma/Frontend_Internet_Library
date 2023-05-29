@@ -2,11 +2,11 @@
 	<div class="comment__container-info-n-answer">
 		<div class="comment__container-info">
 			<div class="comment__box-icon-n-text">
-				<img class="comment__info-icon" src="/img/acc.png" alt="Иконка аккаунта">
+				<img class="comment__info-icon" src="/core/img/acc.png" alt="Иконка аккаунта">
 				<p class="comment__info-text">BookMaster</p>
 			</div>
 			<div class="comment__box-icon-n-text">
-				<img class="comment__info-icon" src="/img/article-date.png" alt="Иконка даты">
+				<img class="comment__info-icon" src="/core/img/article-date.png" alt="Иконка даты">
 				<p class="comment__info-text">25.04.2022</p>
 			</div>
 		</div>

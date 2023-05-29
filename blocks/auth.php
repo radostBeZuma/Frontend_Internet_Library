@@ -3,10 +3,10 @@
 		<div class="auth__wrap">
 			<div class="auth__container-img-n-form">
 				<button class="auth__close-btn" type="button" data-form-login-close>
-					<img class="auth__close-img" src="/img/close.png" alt="Иконка закрытия формы">
+					<img class="auth__close-img" src="/core/img/close.png" alt="Иконка закрытия формы">
 				</button>
 				<div class="auth__box-img">
-					<img class="auth__img" src="/img/auth.png" alt="Иконка регистрации" >
+					<img class="auth__img" src="/core/img/auth.png" alt="Иконка регистрации" >
 				</div>
 				<form class="auth__box-form">
 					<h4 class="auth__form-title">Авторизация</h4>

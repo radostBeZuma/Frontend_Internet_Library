@@ -3,10 +3,10 @@
 		<div class="registration__wrap">
 			<div class="registration__container-img-n-form">
 				<button class="registration__close-btn" type="button" data-form-close>
-					<img class="registration__close-img" src="/img/close.png" alt="Иконка закрытия формы">
+					<img class="registration__close-img" src="/core/img/close.png" alt="Иконка закрытия формы">
 				</button>
 				<div class="registration__box-img">
-					<img class="registration__img" src="/img/regist.png" alt="Иконка регистрации" >
+					<img class="registration__img" src="/core/img/regist.png" alt="Иконка регистрации" >
 				</div>
 				<form class="registration__box-form">
 					<h4 class="registration__form-title">Регистрация</h4>

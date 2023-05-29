@@ -5,7 +5,7 @@
 		<div class="search-articles__box-search-input-n-btn-search">
 			<input class="search-articles__search-input input-primary" type="text" placeholder="Введите название статьи">
 			<button class="search-article__btn-search">
-				<img class="search-article__img-search" src="/img/search.png" alt="Кнопка поиска">
+				<img class="search-article__img-search" src="/core/img/search.png" alt="Кнопка поиска">
 			</button>
 		</div>
 		<div class="search-articles__container-all-articles">

@@ -23,7 +23,7 @@
 
 		<div class="header__container-login-n-registr">
 			<button class="header__btn-login" type="button" data-btn-login>
-				<img class="header__img-login" src="/img/img-login.png" alt="Войти">
+				<img class="header__img-login" src="/core/img/img-login.png" alt="Войти">
 				<p class="header__text-btn">Войти</p>
 			</button>
 

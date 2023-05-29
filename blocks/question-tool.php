@@ -4,7 +4,7 @@
 			<div class="question-tool__decoration"></div>
 			<div class="question-tool__container-img-n-text-n-btn">
 				<div class="question-tool__box-img">
-					<img class="question-tool__img" src="/img/people.png" alt="Картинка">
+					<img class="question-tool__img" src="/core/img/people.png" alt="Картинка">
 				</div>
 				<div class="question-tool__box-text">
 					<h4 class="question-tool__title">Не можете найти книгу?</h4>

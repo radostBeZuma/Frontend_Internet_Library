@@ -3,7 +3,7 @@
 		<div class="popup-check__wrap">
 			<div class="popup-check__container-title-n-close-btn-n-check-item">
 				<button class="popup-check__close-btn" type="button">
-					<img class="popup-check__close-img" src="/img/close-2.png" alt="Закрытие формы">
+					<img class="popup-check__close-img" src="/core/img/close-2.png" alt="Закрытие формы">
 				</button>
 				<h5 class="popup-check__title">Жанры</h5>
 				<div class="popup-check__container-wrap">

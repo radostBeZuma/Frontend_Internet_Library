@@ -25,8 +25,8 @@
 				</div>
 				<label class="new-book__upload-label" for="upload-file-01">
 					<div class="new-book__upload-btn-fake btn-upload">
-						<img class="new-book__img-b" src="/img/upload-b.png" alt="Загрузка файла">
-						<img class="new-book__img-w" src="/img/upload-w.png" alt="Загрузка файла">
+						<img class="new-book__img-b" src="/core/img/upload-b.png" alt="Загрузка файла">
+						<img class="new-book__img-w" src="/core/img/upload-w.png" alt="Загрузка файла">
 					</div>
 				</label>
 			</div>
@@ -40,8 +40,8 @@
 				</div>
 				<label class="new-book__upload-label" for="upload-file-02">
 					<div class="new-book__upload-btn-fake btn-upload">
-						<img class="new-book__img-b" src="/img/upload-b.png" alt="Загрузка файла">
-						<img class="new-book__img-w" src="/img/upload-w.png" alt="Загрузка файла">
+						<img class="new-book__img-b" src="/core/img/upload-b.png" alt="Загрузка файла">
+						<img class="new-book__img-w" src="/core/img/upload-w.png" alt="Загрузка файла">
 					</div>
 				</label>
 			</div>

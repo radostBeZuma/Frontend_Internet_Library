@@ -9,11 +9,11 @@
 		</div>
 		<div class="topic__container-creator-n-reviews">
 			<div class="topic__box-icon-n-text">
-				<img class="topic__icon" src="/img/acc.png" alt="Иконка создате" width="24px" height="24px">
+				<img class="topic__icon" src="/core/img/acc.png" alt="Иконка создате" width="24px" height="24px">
 				<p class="topic__text">BookMaster</p>
 			</div>
 			<div class="topic__box-icon-n-text">
-				<img class="topic__icon" src="/img/reviews.png" alt="Иконка отзывов" width="24px" height="24px">
+				<img class="topic__icon" src="/core/img/reviews.png" alt="Иконка отзывов" width="24px" height="24px">
 				<p class="topic__text">1</p>
 			</div>
 		</div>

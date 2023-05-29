@@ -1,11 +1,11 @@
 <section class="part-book">
 	<div class="part-book__wrap wrapper">
 		<div class="part-book__container-img-n-book-btns">
-			<img class="part-book__book-img" src="/img/cover-book.jpg" alt="Обложка книги">
+			<img class="part-book__book-img" src="/core/img/cover-book.jpg" alt="Обложка книги">
 			<div class="part-book__box-book-btns">
 				<!-- в href вставить ссылку на файл (бэк) -->
 				<a class="part-book__download-btn" href="#" download>
-					<img class="part-book__download-icon" src="/img/download.png" alt="Иконка скачивания">
+					<img class="part-book__download-icon" src="/core/img/download.png" alt="Иконка скачивания">
 					<span class="part-book__download-text">Скачать</span>
 				</a>
 				<button class="part-book__read-btn btn-thrity" type="button">Читать</button>
@@ -58,7 +58,7 @@
 			<div class="part-book__box-favorite-btn">
 				<button class="part-book__favorite-btn btn-fourth">
 					<p class="part-book__favorite-btn-text">В избранное</p>
-					<img class="part-book__favorite-btn-img" src="/img/favorite.png" alt="Избранное">
+					<img class="part-book__favorite-btn-img" src="/core/img/favorite.png" alt="Избранное">
 				</button>
 			</div>
 		</div>

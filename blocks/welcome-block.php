@@ -6,7 +6,7 @@
 			<a class="welcome-block__btn link-secondary" href="/templates/book-selection.php">Подобрать книгу</a>
 		</div>
 		<div class="welcome-block__container-img">
-			<img class="welcome-block__img" src="/img/read-book.jpg" alt="Картинка с чтением книги" width="400px" height="380px">
+			<img class="welcome-block__img" src="/core/img/read-book.jpg" alt="Картинка с чтением книги" width="400px" height="380px">
 		</div>
 	</div>
 </section>

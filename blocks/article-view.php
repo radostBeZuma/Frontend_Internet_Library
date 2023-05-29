@@ -4,15 +4,15 @@
 			<div class="article-view__decoration"></div>
 			<div class="article-view__container-info">
 				<div class="article-view__box-icon-n-text">
-					<img class="article-view__icon-info" src="/img/acc.png" alt="Иконка пользователя">
+					<img class="article-view__icon-info" src="/core/img/acc.png" alt="Иконка пользователя">
 					<p class="article-view__text-info">BookMaster</p>
 				</div>
 				<div class="article-view__box-icon-n-text">
-					<img class="article-view__icon-info" src="/img/reviews.png" alt="Иконка комментариев">
+					<img class="article-view__icon-info" src="/core/img/reviews.png" alt="Иконка комментариев">
 					<p class="article-view__text-info">1</p>
 				</div>
 				<div class="article-view__box-icon-n-text">
-					<img class="article-view__icon-info" src="/img/article-date.png" alt="Иконка даты">
+					<img class="article-view__icon-info" src="/core/img/article-date.png" alt="Иконка даты">
 					<p class="article-view__text-info">25.04.2022</p>
 				</div>
 			</div>

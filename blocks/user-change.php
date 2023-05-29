@@ -6,7 +6,7 @@
 				<div class="user-change__container-change-img-n-upload-input-n-del-btn">
 					<div class="user-change__box-change-img">
 						<!-- onerror убирает значок битой картинки, что меншает хорошо выглядить дизайну -->
-						<img class="user-change__change-img" src="/img/human.jpg" width="200px" height="200px" onerror="this.style.visibility='hidden'" >
+						<img class="user-change__change-img" src="/core/img/human.jpg" width="200px" height="200px" onerror="this.style.visibility='hidden'" >
 					</div>
 					<div class="user-change__box-upload-input">
 						<form>
@@ -18,7 +18,7 @@
 					</div>
 					<div class="user-change__box-delete-btn">
 						<button class="user-change__delete-btn">
-							<img class="user-change__delete-icon" src="/img/delete.png" alt="Иконка">
+							<img class="user-change__delete-icon" src="/core/img/delete.png" alt="Иконка">
 							<span class="user-change__delete-text">Удалить фото</span>
 						</button>
 					</div>
@@ -29,7 +29,7 @@
 						<div class="user-change__inner-edit-input-n-btn">
 							<input class="user-change__edit-input input-secondary input-secondary--with-icon" type="text">
 							<button class="user-change__edit-text-btn">
-								<img class="user-change__edit-img" src="/img/edit.png" alt="Иконка">
+								<img class="user-change__edit-img" src="/core/img/edit.png" alt="Иконка">
 							</button>
 						</div>
 					</div>
@@ -38,7 +38,7 @@
 						<div class="user-change__inner-edit-input-n-btn">
 							<input class="user-change__edit-input input-secondary input-secondary--with-icon" type="text">
 							<button class="user-change__edit-text-btn">
-								<img class="user-change__edit-img" src="/img/edit.png" alt="Иконка">
+								<img class="user-change__edit-img" src="/core/img/edit.png" alt="Иконка">
 							</button>
 						</div>
 					</div>
@@ -56,7 +56,7 @@
 				</div>
 				<div class="user-change__box-edit-btn">
 					<button class="user-change__edit-btn">
-						<img class="user-change__edit-btn-img" src="/img/edit-white.png" alt="Иконка">
+						<img class="user-change__edit-btn-img" src="/core/img/edit-white.png" alt="Иконка">
 						<span class="user-change__edit-btn-text">Изменить пароль</span>
 					</button>
 				</div>
