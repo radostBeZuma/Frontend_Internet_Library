@@ -1,21 +1,23 @@
 <header class="header gray-theme">
 	<div class="header__wrap">
 		<div class="header__container-logo">
-			<p class="header__logo">SmartLibrary</p>
+            <a href="/">
+                <p class="header__logo">SmartLibrary</p>
+            </a>
 		</div>
 
 		<nav class="header__menu">
 			<div class="header__container-link">
-				<a class="header__link link-primary" href="/templates/">Главная</a>
+				<a class="header__link link-primary" href="/">Главная</a>
 			</div>
 			<div class="header__container-link">
-				<a class="header__link link-primary" href="#">Каталог</a>
+				<a class="header__link link-primary" href="/catalog/">Каталог</a>
 			</div>
 			<div class="header__container-link">
-				<a class="header__link link-primary" href="#">Блог</a>
+				<a class="header__link link-primary" href="/blog/">Блог</a>
 			</div>
 			<div class="header__container-link">
-				<a class="header__link link-primary" href="#">Форум</a>
+				<a class="header__link link-primary" href="/forum/">Форум</a>
 			</div>
 		</nav>
 
