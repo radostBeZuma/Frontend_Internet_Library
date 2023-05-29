@@ -8,10 +8,10 @@
 				<button class="frm-tools__topic-btn" type="button">Открытые</button>
 				<button class="frm-tools__topic-btn" type="button">Закрытые</button>
 			</div>
-			<button class="frm-tools__new-topic-btn">
+			<a class="frm-tools__new-topic-btn" href="/add-article/">
 				<img class="frm-tools__new-topic-btn-img" src="/img/add.png" alt="Иконка добавления">
 				<p class="frm-tools__new-topic-btn-text">Создать тему</p>
-			</button>
+			</a>
 		</div>
 		<div class="frm-tools__container-search-input-n-search-btn">
 			<div class="frm-tools__box-search-input">
