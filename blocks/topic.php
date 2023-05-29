@@ -2,7 +2,9 @@
 	<div class="topic__container-all-visual">
 		<div class="topic__status-topic _is-close">Закрыта</div>
 		<div class="topic__container-text-topic">
-			<h4 class="topic__title-topic">Тестовая тема форума</h4>
+            <a class="topic__detail-link" href="/detail-topic/">
+                <h4 class="topic__title-topic">Тестовая тема форума</h4>
+            </a>
 			<p class="topic__desc-topic">Текст тестовой темы форума</p>
 		</div>
 		<div class="topic__container-creator-n-reviews">
