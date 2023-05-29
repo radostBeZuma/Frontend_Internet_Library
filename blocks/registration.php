@@ -1,4 +1,4 @@
-<section class="registration _is-active">
+<section class="registration">
 	<div class="registration__blur-bg">
 		<div class="registration__wrap">
 			<div class="registration__container-img-n-form">
