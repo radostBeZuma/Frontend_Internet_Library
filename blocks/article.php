@@ -2,7 +2,7 @@
 	<div class="article__conteiner-img-n-info">
 		<div class="article__box-img-n-read-link">
 			<img  class="article__img" src="/img/article.jpg" alt="Картинка статьи">
-			<a class="article__read-link link-fourth" href="#" >Читать статью</a>
+			<a class="article__read-link link-fourth" href="/detail-article/">Читать статью</a>
 		</div>
 		<div class="article__container-info">
 			<h3 class="article__title">Что почитать в отпуске: какой должна быть книга?</h3>
