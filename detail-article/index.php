@@ -6,21 +6,21 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<!-- ALL-page Css init -->
-		<link rel="stylesheet" href="/css/entry/variables.css">
-		<link rel="stylesheet" href="/css/entry/fonts.css">
-		<link rel="stylesheet" href="/css/entry/reset-style.css">
-		<link rel="stylesheet" href="/css/entry/components.css">
+		<link rel="stylesheet" href="/core/css/entry/variables.css">
+		<link rel="stylesheet" href="/core/css/entry/fonts.css">
+		<link rel="stylesheet" href="/core/css/entry/reset-style.css">
+		<link rel="stylesheet" href="/core/css/entry/components.css">
 	<!-- ALL-page Css init end -->
 
 	<!-- page css init-->
-		<link rel="stylesheet" href="/css/pages/detail-article-page.css">
+		<link rel="stylesheet" href="/core/css/pages/detail-article-page.css">
 	<!-- page css init end -->
 
 	<!-- detail-aticle-page css init -->
-		<link rel="stylesheet" href="/css/blocks/header.css">
-		<link rel="stylesheet" href="/css/blocks/page-navigation.css">
-		<link rel="stylesheet" href="/css/blocks/part-article.css">
-		<link rel="stylesheet" href="/css/blocks/footer.css">
+		<link rel="stylesheet" href="/core/css/blocks/header.css">
+		<link rel="stylesheet" href="/core/css/blocks/page-navigation.css">
+		<link rel="stylesheet" href="/core/css/blocks/part-article.css">
+		<link rel="stylesheet" href="/core/css/blocks/footer.css">
 	<!-- detail-book-page css init end -->
 
 	<title>Детальная страница книги</title>

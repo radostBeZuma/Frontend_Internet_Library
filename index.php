@@ -8,27 +8,27 @@
 	<title>Главная страница</title>
 
 	<!-- ALL-page Css init -->
-		<link rel="stylesheet" href="/css/entry/variables.css">
-		<link rel="stylesheet" href="/css/entry/fonts.css">
-		<link rel="stylesheet" href="/css/entry/reset-style.css">
-		<link rel="stylesheet" href="/css/entry/components.css">
+		<link rel="stylesheet" href="/core/css/entry/variables.css">
+		<link rel="stylesheet" href="/core/css/entry/fonts.css">
+		<link rel="stylesheet" href="/core/css/entry/reset-style.css">
+		<link rel="stylesheet" href="/core/css/entry/components.css">
 	<!-- ALL-page Css init end -->
 
 	<!-- page css init-->
-		<link rel="stylesheet" href="/css/pages/index-page.css">
+		<link rel="stylesheet" href="/core/css/pages/index-page.css">
 	<!-- page css init end -->
 
 	<!-- index-page css init -->
-		<link rel="stylesheet" href="/css/blocks/header.css">
-		<link rel="stylesheet" href="/css/blocks/welcome-block.css">
-		<link rel="stylesheet" href="/css/blocks/popular-books.css">
-		<link rel="stylesheet" href="/css/blocks/book.css">
-		<link rel="stylesheet" href="/css/blocks/ad-forum.css">
-		<link rel="stylesheet" href="/css/blocks/recommendation.css">
-		<link rel="stylesheet" href="/css/blocks/question-tool.css">
-		<link rel="stylesheet" href="/css/blocks/registration.css">
-		<link rel="stylesheet" href="/css/blocks/auth.css">
-		<link rel="stylesheet" href="/css/blocks/footer.css">
+		<link rel="stylesheet" href="/core/css/blocks/header.css">
+		<link rel="stylesheet" href="/core/css/blocks/welcome-block.css">
+		<link rel="stylesheet" href="/core/css/blocks/popular-books.css">
+		<link rel="stylesheet" href="/core/css/blocks/book.css">
+		<link rel="stylesheet" href="/core/css/blocks/ad-forum.css">
+		<link rel="stylesheet" href="/core/css/blocks/recommendation.css">
+		<link rel="stylesheet" href="/core/css/blocks/question-tool.css">
+		<link rel="stylesheet" href="/core/css/blocks/registration.css">
+		<link rel="stylesheet" href="/core/css/blocks/auth.css">
+		<link rel="stylesheet" href="/core/css/blocks/footer.css">
 	<!-- index-page css init end -->
 </head>
 <body>

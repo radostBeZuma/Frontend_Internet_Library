@@ -6,23 +6,23 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<!-- ALL-page Css init -->
-		<link rel="stylesheet" href="/css/entry/variables.css">
-		<link rel="stylesheet" href="/css/entry/fonts.css">
-		<link rel="stylesheet" href="/css/entry/reset-style.css">
-		<link rel="stylesheet" href="/css/entry/components.css">
+		<link rel="stylesheet" href="/core/css/entry/variables.css">
+		<link rel="stylesheet" href="/core/css/entry/fonts.css">
+		<link rel="stylesheet" href="/core/css/entry/reset-style.css">
+		<link rel="stylesheet" href="/core/css/entry/components.css">
 	<!-- ALL-page Css init end -->
 
 	<!-- page css init-->
-		<link rel="stylesheet" href="/css/pages/topic-forum-page.css">
+		<link rel="stylesheet" href="/core/css/pages/topic-forum-page.css">
 	<!-- page css init end -->
 
 	<!-- topic-forum-page css init -->
-		<link rel="stylesheet" href="/css/blocks/header.css">
-		<link rel="stylesheet" href="/css/blocks/page-navigation.css">
-		<link rel="stylesheet" href="/css/blocks/article-view.css">
-		<link rel="stylesheet" href="/css/blocks/comment.css">
-		<link rel="stylesheet" href="/css/blocks/add-answer.css">
-		<link rel="stylesheet" href="/css/blocks/footer.css">
+		<link rel="stylesheet" href="/core/css/blocks/header.css">
+		<link rel="stylesheet" href="/core/css/blocks/page-navigation.css">
+		<link rel="stylesheet" href="/core/css/blocks/article-view.css">
+		<link rel="stylesheet" href="/core/css/blocks/comment.css">
+		<link rel="stylesheet" href="/core/css/blocks/add-answer.css">
+		<link rel="stylesheet" href="/core/css/blocks/footer.css">
 	<!-- topic-forum-page css init end -->
 	
 	<title>Тема статьи</title>
