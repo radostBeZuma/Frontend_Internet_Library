@@ -32,14 +32,14 @@
 	<!-- index-page css init end -->
 </head>
 <body>
-	<? require ("../blocks/header.php") ?>
-	<? require ("../blocks/welcome-block.php") ?>
-	<? require ("../blocks/popular-books.php") ?>
-	<? require ("../blocks/advert-forum.php") ?>
-	<? require ("../blocks/recommendation.php") ?>
-	<? require ("../blocks/question-tool.php") ?>
-	<? require ("../blocks/registration.php") ?>
-	<? require ("../blocks/auth.php") ?>
-	<? require ("../blocks/footer.php") ?>
+	<? require ("blocks/header.php") ?>
+	<? require ("blocks/welcome-block.php") ?>
+	<? require ("blocks/popular-books.php") ?>
+	<? require ("blocks/advert-forum.php") ?>
+	<? require ("blocks/recommendation.php") ?>
+	<? require ("blocks/question-tool.php") ?>
+	<? require ("blocks/registration.php") ?>
+	<? require ("blocks/auth.php") ?>
+	<? require ("blocks/footer.php") ?>
 </body>
 </html>

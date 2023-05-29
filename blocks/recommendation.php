@@ -7,10 +7,10 @@
 				<img class="recommendation__prev-img img_active" src="/img/prev-btn-2.png" alt="Активный">
 			</button>
 			<div class="recomendation__container-book">
-				<? require("../blocks/book.php") ?>
-				<? require("../blocks/book.php") ?>
-				<? require("../blocks/book.php") ?>
-				<? require("../blocks/book.php") ?>
+				<? require("blocks/book.php") ?>
+				<? require("blocks/book.php") ?>
+				<? require("blocks/book.php") ?>
+				<? require("blocks/book.php") ?>
 			</div>
 			<button class="recommendation__next-btn btn-slider">
 				<img class="recommendation__next-img img_no-active" src="/img/next-btn.png" alt="Не активный">
